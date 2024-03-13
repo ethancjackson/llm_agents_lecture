@@ -1,0 +1,7 @@
+sentence-transformers
+council-ai
+dspy-ai
+wget
+openai
+langchain-community
+sentencepiece
