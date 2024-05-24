@@ -6,3 +6,4 @@ openai
 langchain-community
 sentencepiece
 ipykernel
+psycopg2-binary
